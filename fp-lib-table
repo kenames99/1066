@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name atari)(type KiCad)(uri V:/Drive-D/kicad/modules/atari)(options "")(descr ""))
+  (lib (name PARALLEL_BUS_INTERFACE_DEVICE)(type Legacy)(uri V:/Drive-D/kicad/modules/atari/PARALLEL_BUS_INTERFACE_DEVICE.mod)(options "")(descr ""))
+  (lib (name PARALLEL_BUS_INTERFACE)(type Legacy)(uri V:/Drive-D/kicad/modules/atari/PARALLEL_BUS_INTERFACE.mod)(options "")(descr ""))
+  (lib (name SWITCH)(type KiCad)(uri ${KIPRJMOD}/SWITCH.pretty)(options "")(descr ""))
+)
