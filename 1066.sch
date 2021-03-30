@@ -4,10 +4,10 @@ EELAYER END
 $Descr C 22000 17000
 encoding utf-8
 Sheet 1 1
-Title ""
-Date ""
-Rev ""
-Comp ""
+Title "1066"
+Date "2021-03-30"
+Rev "1.0"
+Comp "Atari Museum"
 Comment1 ""
 Comment2 ""
 Comment3 ""
