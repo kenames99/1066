@@ -2,7 +2,7 @@
 
   (general
     (thickness 1.6)
-    (drawings 56)
+    (drawings 55)
     (tracks 2611)
     (zones 0)
     (modules 83)
@@ -4682,7 +4682,6 @@
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (gr_line (start 226.11 116.32) (end 201.91 116.31) (layer F.SilkS) (width 0.12))
-  (gr_line (start 167.48 34.88) (end 167.48 46.37) (layer F.SilkS) (width 0.12))
   (gr_circle (center 260.55988 29.81) (end 262.79 29.81) (layer Edge.Cuts) (width 0.05) (tstamp 5D8069CB))
   (gr_circle (center 260.56 148.59988) (end 262.79012 148.59988) (layer Edge.Cuts) (width 0.05) (tstamp 5D80698A))
   (gr_circle (center 42.11988 148.6) (end 44.35 148.6) (layer Edge.Cuts) (width 0.05))
